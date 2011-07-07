@@ -1,0 +1,14 @@
+{application, jsonerl,
+ [
+  {description, ""},
+  {vsn, "1.0.0"},
+  {modules, [jsonerl]},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { jsonerl_app, []}},
+  {env, []}
+ ]}.
+
