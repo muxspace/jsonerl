@@ -8,7 +8,6 @@
                   kernel,
                   stdlib
                  ]},
-  {mod, { jsonerl_app, []}},
   {env, []}
  ]}.
 
